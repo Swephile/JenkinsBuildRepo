@@ -4,6 +4,6 @@ public class TestClass {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Jenkins Build test3");
+		System.out.println("Jenkins Build test4");
 	}
 }
